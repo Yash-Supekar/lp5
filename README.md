@@ -1,5 +1,8 @@
 https://chatgpt.com/share/69f8c93a-257c-83a8-b8b4-bdd03c02e2d9
 
+
+https://github.com/Vishwajeet-Londhe/SPPU-CSE-SEM8-Codes
+
 Syllabus for theory: Deep Learning: Course Contents Unit I Foundations of Deep learning 07 Hours What is machine learning and deep learning?,Supervised and Unsupervised Learning, bias variance tradeoff, hyper parameters, under/over fitting regularization, Limitations of machine learning, History of deep learning, Advantage and challenges of deep learning. Learning representations from data , Understanding how deep learning works in three figures, Common Architectural Principles of Deep Network, Architecture Design, Applications of Deep learning, Introduction and use of popular industry tools such as TensorFLow, Keras, PyTorch, Caffe, Shogun.
 
 Unit II Deep Neural Networks(DNNs)
